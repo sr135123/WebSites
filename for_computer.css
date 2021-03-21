@@ -1,0 +1,26 @@
+#hongbo{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+
+#hallaSM{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(47, 47, 47);
+}
+
+#hawn{
+    width: 100%;
+}
+
+#hh{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
